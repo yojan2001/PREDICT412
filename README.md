@@ -1,4 +1,11 @@
 PREDICT412
+###Final Project Checkpoint Week 2
+#####Allstate Team 2: Alain Bonacossa, Darrel Dent, Suoyang Hou, Travis Lee Gaddie
+
+##Objective
+##Assumptions
+##Data Exploration and Visualization
+##Appendix
 ## variable names
 ## customer_ID  shopping_pt	record_type	day	time	state	location	group_size	homeowner	car_age	car_value	
 ## risk_factor	age_oldest	age_youngest	married_couple	C_previous	duration_previous	A	B	C	D	E	F	G	cost
